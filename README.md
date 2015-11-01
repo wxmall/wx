@@ -1,2 +1,2 @@
-# wx
-wxmall.github.io
+# wxmall
+wx.qianxunyogo.com
