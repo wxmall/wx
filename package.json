@@ -1,0 +1,31 @@
+{
+  "name": "qianxunyogo",
+  "version": "1.0.0",
+  "description": "qianxunyogo.com",
+  "domain" : {
+    "dev" : "http://192.168.31.182:10086",
+    "office" : "http://10.2.2.35:10086",
+    "demo"  : "http://newhaibian.nmtree.com",
+    "svn"  : "http://test.static.haibian.com",
+    "online": "http://127.0.0.1:10086"
+  },
+  "cdn" : {
+    "cdnName"   : "qiniu",
+    "bucketName": "static-cdn",
+    "accessKey" : "JSL6CY6QJ3xGheD223gYpCLn6Ocmh774q7i8f8CN",
+    "secretKey" : "VI-tUPuSmp1igiGcM8ejTDs9HFvBd-PIHptwcQ5L"
+  },
+  "svn" : {
+    "path" : "/Users/bobo/wwwRoot/work_Root/haibian.com/SVN/haibian_online (trunk)/static"
+  },
+  "excludeList" : ["vendors"],
+  "main": "index.tpl",
+  "scripts": {
+    "test": "no"
+  },
+  "keywords": [
+    "hiabian.com"
+  ],
+  "author": "bobo.xiao <bobo.xiao@nmtree.com> (http://www.lingtal.com/)",
+  "license": "BSD-2-Clause"
+}
